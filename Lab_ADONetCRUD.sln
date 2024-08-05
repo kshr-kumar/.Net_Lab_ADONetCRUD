@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppUI", "Lab_ADONetCRUD\WebAppUI.csproj", "{AEE4ABEC-5DD6-4FD3-8A73-7B102FBF7B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A0FBF7EB-678D-4249-890C-981D7D7DD148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE4ABEC-5DD6-4FD3-8A73-7B102FBF7B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE4ABEC-5DD6-4FD3-8A73-7B102FBF7B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE4ABEC-5DD6-4FD3-8A73-7B102FBF7B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE4ABEC-5DD6-4FD3-8A73-7B102FBF7B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FBF7EB-678D-4249-890C-981D7D7DD148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FBF7EB-678D-4249-890C-981D7D7DD148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FBF7EB-678D-4249-890C-981D7D7DD148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FBF7EB-678D-4249-890C-981D7D7DD148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E57F7A39-4E4C-4F8D-9887-1BAD089E413B}
+	EndGlobalSection
+EndGlobal
